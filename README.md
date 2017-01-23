@@ -1,2 +1,1 @@
-# ExploratoryDataAnalysis_Week1
-CourseProject for Week 1
+Completed the assigned and uploaded the 8 files from my local repository
